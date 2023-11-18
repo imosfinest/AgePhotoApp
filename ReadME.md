@@ -1,1 +1,1 @@
-Here is a project i'm building while i go through my freeCodeCamp CatPhotoApp lesson.
+Here is a project i'm building while I go through my freeCodeCamp CatPhotoApp lesson.
